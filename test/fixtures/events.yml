@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name_event: MyString
+  date_event: 2023-04-24
+  event_start_time: 2023-04-24 22:33:41
+  event_end_time: 2023-04-24 22:33:41
+  event_city: MyString
+  event_entry_fees: 1.5
+  event_status: MyString
+  event_capacity: 1
+  event_description: MyString
+
+two:
+  name_event: MyString
+  date_event: 2023-04-24
+  event_start_time: 2023-04-24 22:33:41
+  event_end_time: 2023-04-24 22:33:41
+  event_city: MyString
+  event_entry_fees: 1.5
+  event_status: MyString
+  event_capacity: 1
+  event_description: MyString

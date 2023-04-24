@@ -1,0 +1,2 @@
+class Jaan < ApplicationRecord
+end
